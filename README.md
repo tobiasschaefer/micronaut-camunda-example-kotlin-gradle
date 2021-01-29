@@ -1,12 +1,8 @@
-## Micronaut 2.3.0 Documentation
+# micronaut-camunda with Kotlin and Gradle
 
-- [User Guide](https://docs.micronaut.io/2.3.0/guide/index.html)
-- [API Reference](https://docs.micronaut.io/2.3.0/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/2.3.0/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+Simple application based on Getting Started from https://github.com/NovatecConsulting/micronaut-camunda-bpm
 
-## Feature http-client documentation
+See also https://github.com/tobiasschaefer/micronaut-camunda-example-java-maven for another example
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
-
+Start the example:
+`./gradlew clean run`
