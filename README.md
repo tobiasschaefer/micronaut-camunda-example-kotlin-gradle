@@ -6,3 +6,5 @@ See also https://github.com/tobiasschaefer/micronaut-camunda-example-java-maven 
 
 Start the example:
 `./gradlew clean run`
+
+[![Continuous Integration](https://github.com/tobiasschaefer/micronaut-camunda-example-kotlin-gradle/workflows/Java%20CI%20with%20Gradle/badge.svg)](https://github.com/tobiasschaefer/micronaut-camunda-example-kotlin-gradle/actions)
