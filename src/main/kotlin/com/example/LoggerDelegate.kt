@@ -1,9 +1,9 @@
 package com.example
 
+import jakarta.inject.Singleton
 import org.camunda.bpm.engine.delegate.JavaDelegate
 import org.camunda.bpm.engine.delegate.DelegateExecution
 import org.slf4j.LoggerFactory
-import javax.inject.Singleton
 
 @Singleton
 class LoggerDelegate : JavaDelegate {
