@@ -1,6 +1,10 @@
 micronaut:
   application:
     name: micronautCamundaExampleKotlinGradle
+netty:
+  default:
+    allocator:
+      max-order: 3
 camunda:
   admin-user:
     id: admin
